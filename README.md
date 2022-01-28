@@ -1,4 +1,5 @@
 # hello-world
 My first repository.
 Hi Git World! :)
-Something useless...
+
+Just learning how to clone a repo...
